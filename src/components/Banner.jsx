@@ -12,4 +12,4 @@ function Banner () {
     );
 };
 
- default Banner;
+ export default Banner;
